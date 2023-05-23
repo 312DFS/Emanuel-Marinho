@@ -1,5 +1,3 @@
 Olá, Mundo!
 
 Hello, World!
-
-hola, muendo
